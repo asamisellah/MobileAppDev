@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login App</string>
+
+    <string name="username">Username:</string>
+    <string name="static_login">Static Login</string>
+    <string name="login_button">Login</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="attempts_left">Attempts Left: </string>
+</resources>
